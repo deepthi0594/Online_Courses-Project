@@ -16,4 +16,4 @@ You can find the link to my final presentation in Streamlit here.
 "Education is the most powerful weapon you can use to change the world."
 ~ B.B. King
 
-[logo_udemy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png) [logo_edX](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EdX_newer_logo.svg/1024px-EdX_newer_logo.svg.png)
+![logo_udemy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png) ![logo_edX](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EdX_newer_logo.svg/1024px-EdX_newer_logo.svg.png)
