@@ -82,3 +82,4 @@ if st.button("Predict the number of students in 4 years: "):
         st.write(f"Supposing that you passed the threshold, you would make a revenue of {revenue_3} dollars over the course of 4 years.")
 
     st.write("Worth it or not? I'll let you decide! 😉")
+    st.write("FYI: the model's score was 0.68 with a mean absolute error of 12,119. Do consider the predicted number of students with this context in mind.")

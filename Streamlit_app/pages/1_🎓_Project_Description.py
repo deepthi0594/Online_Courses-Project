@@ -25,9 +25,10 @@ st.write(
     """Please note that for this project I did not scrape ALL the existing courses offered by Udemy nor edX as I wanted to have datasets matching with 2 older ones.""")
 
 st.write(
-    """Links:
-    - GitHub
-    - 2020 datasets: 
+    """
+    Links:
+    - [GitHub](https://github.com/NolwennLeBas/Online_Courses-Project) repository
+    - 2020 Kaggle datasets: [Udemy](https://www.kaggle.com/datasets/andrewmvd/udemy-courses), [edX](https://www.kaggle.com/datasets/santoshapatil31/edx-all-courses-3082-courses)
     """)
 
-st.image(['./images/udemy.png','./images/edx.png'], width=400)
+st.image(['./images/udemy.png','./images/edx.png'], width=300)
