@@ -18,5 +18,5 @@ st.markdown(
 """
 )
 
-image_1=Image.open('online_education.jpg', "rb")
+image_1=Image.open('online_education.jpg')
 st.image(image_1)
