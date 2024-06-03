@@ -11,7 +11,7 @@ Recent years have seen an increase in interest towards online courses and format
 - Compare the 2 online academies
 - Predict the growth in number of students on a 4 year timeframe
 
-You can find the link to my final presentation in Streamlit here.
+You can find the link to my final presentation in Streamlit [here](https://online-courses-project.streamlit.app/).
 
 "Education is the most powerful weapon you can use to change the world."
 ~ B.B. King
