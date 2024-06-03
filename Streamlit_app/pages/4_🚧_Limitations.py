@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 
 st.set_page_config(page_title="Limitations", page_icon="🚧")
 
@@ -9,8 +10,9 @@ st.write(
     If you've played around with the filters in the prediction model you might have found that the only factors influencing its results where:
     - the previous number of students
     - the number of ratings
-    Sadly, this is why this model is really limited. 
     """)
+
+st.write("Sadly, this is why this model is really limited. ")
 
 st.write(
     """
@@ -27,4 +29,5 @@ st.write(
 
 st.write("#### The End")
 
-st.image(['graduation_2.jpg'])
+image_4=Image.open('graduation_2.jpg')
+st.image(image_4)

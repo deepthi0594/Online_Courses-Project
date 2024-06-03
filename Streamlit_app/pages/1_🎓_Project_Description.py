@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 
 st.set_page_config(page_title="Project Description", page_icon="🎓")
 
@@ -31,4 +32,6 @@ st.write(
     - 2020 Kaggle datasets: [Udemy](https://www.kaggle.com/datasets/andrewmvd/udemy-courses), [edX](https://www.kaggle.com/datasets/santoshapatil31/edx-all-courses-3082-courses)
     """)
 
-st.image(['udemy.png','edx.png'], width=300)
+image_2=Image.open('udemy.png')
+image_3=Image.open('edx.png')
+st.image([image_2,image_3], width=300)

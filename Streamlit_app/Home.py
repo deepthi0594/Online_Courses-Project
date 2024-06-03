@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 
 st.set_page_config(
     page_title="Online Courses - by N.LB 🎓",
@@ -17,4 +18,5 @@ st.markdown(
 """
 )
 
-st.image('online_education.jpg')
+image_1=Image.open('online_education.jpg')
+st.image(image_1)
