@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(page_title="Limitations", page_icon="🚧")
+st.set_page_config(page_title="Limitations", page_icon="🚧", layout="wide")
 
 st.markdown("# Limitations")
 

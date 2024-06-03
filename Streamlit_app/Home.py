@@ -4,6 +4,7 @@ from PIL import Image
 st.set_page_config(
     page_title="Online Courses - by N.LB 🎓",
     page_icon="✍️",
+    layout="wide"
 )
 
 st.write("# Hey there! 👋")

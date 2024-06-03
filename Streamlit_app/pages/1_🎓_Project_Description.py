@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(page_title="Project Description", page_icon="🎓")
+st.set_page_config(page_title="Project Description", page_icon="🎓", layout="wide")
 
 st.markdown("# Project Description")
 
