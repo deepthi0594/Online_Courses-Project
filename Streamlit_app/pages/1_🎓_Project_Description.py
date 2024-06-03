@@ -32,6 +32,6 @@ st.write(
     - 2020 Kaggle datasets: [Udemy](https://www.kaggle.com/datasets/andrewmvd/udemy-courses), [edX](https://www.kaggle.com/datasets/santoshapatil31/edx-all-courses-3082-courses)
     """)
 
-image_2=Image.open('Streamlit_app/udemy.png')
-image_3=Image.open('Streamlit_app/edx.png')
+image_2=Image.open('udemy.png')
+image_3=Image.open('edx.png')
 st.image([image_2,image_3], width=300)
