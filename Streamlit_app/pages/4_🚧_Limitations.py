@@ -29,5 +29,5 @@ st.write(
 
 st.write("#### The End")
 
-image_4=Image.open('graduation_2.jpg')
+image_4=Image.open('./graduation_2.jpg')
 st.image(image_4)
