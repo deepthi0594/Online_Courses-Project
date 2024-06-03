@@ -27,4 +27,4 @@ st.write(
 
 st.write("#### The End")
 
-st.image(['./images/graduation_2.jpg'])
+st.image(['graduation_2.jpg'])

@@ -17,4 +17,4 @@ st.markdown(
 """
 )
 
-st.image('images/online_education.jpg')
+st.image('online_education.jpg')

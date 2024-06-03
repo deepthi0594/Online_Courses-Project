@@ -12,13 +12,13 @@ from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 from sklearn.tree import DecisionTreeRegressor
 
 # loading the models
-scaler_path='./pickles/scaling_model.pkl'
+scaler_path='scaling_model.pkl'
 scaler=pickle.load(open(scaler_path, 'rb'))
 
-encoder_path='./pickles/encoding_model.pkl'
+encoder_path='encoding_model.pkl'
 encoder=pickle.load(open(encoder_path, 'rb'))
 
-model_path='./pickles/regression_model.pkl'
+model_path='regression_model.pkl'
 model=pickle.load(open(model_path, 'rb'))
 
 # list of acceptable values
